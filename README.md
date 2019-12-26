@@ -1,0 +1,1 @@
+# mt5-ticker-symbol-watermark
